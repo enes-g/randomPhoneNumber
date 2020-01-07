@@ -17,7 +17,7 @@ public class Register {
             System.out.println("number : " + start + sayilar[0] + sayilar[1] + sayilar[2] + sayilar[3] + sayilar[4] + sayilar[5] + sayilar[6] + sayilar[7]);
 
         }
-
+        System.out.println("hello world");
     }
 
 

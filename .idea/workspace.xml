@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="790cf5dc-f36e-4470-a680-75905e348123" name="Default Changelist" comment="" />
+    <list default="true" id="790cf5dc-f36e-4470-a680-75905e348123" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/firstproject/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstproject/Register.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VtuxpTHF1XjhMFIq79Qx3JWM0C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
