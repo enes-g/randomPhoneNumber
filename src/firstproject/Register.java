@@ -4,17 +4,17 @@ import java.util.Random;
 public class Register {
     public static void main(String[] args) {
 
-        Random telno = new Random();
-        int[] sayilar = new int[11];
+        Random phoneNo = new Random();
+        int[] number = new int[11];
         String start = "053";
 
 
         for (int j = 0; j <= 100; j++) {
-            System.out.println(j + "telefon numarası");
+            System.out.println(j + "Phone Number");
             for (int i = 0; i <= 8; i++) {
-                sayilar[i] = telno.nextInt(10);
+                number[i] = phoneNo.nextInt(10);
             }
-            System.out.println("number : " + start + sayilar[0] + sayilar[1] + sayilar[2] + sayilar[3] + sayilar[4] + sayilar[5] + sayilar[6] + sayilar[7]);
+            System.out.println("number : " + start + number[0] + number[1] + number[2] + number[3] + number[4] + number[5] + number[6] + number[7]);
 
         }
         System.out.println("hello world");
